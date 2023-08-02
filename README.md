@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aglailson Santiago</h1>
 <h3 align="center">A Full Stack developer from Brazil</h3>
 
-- 🌱 I'm currently improving my knowledge in **Javascript, Typescript, NodeJs and React.**
+- 🌱 I am always improving my knowledge in the most diverse technologies.
 
 - 👨‍💻 All of my projects are available at [https://github.com/AglailsonSantiago](https://github.com/AglailsonSantiago)
 
